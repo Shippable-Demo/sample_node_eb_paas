@@ -21,6 +21,6 @@ integrations:
       type: aws
       target: eb_paas
       platform: "Node.js"
-      application_name: node-eb-paas
+      application_name: node_eb_paas
       env_name: node-eb-paas-env
       region: us-west-2
